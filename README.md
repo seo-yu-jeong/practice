@@ -1,2 +1,1 @@
-"# yujeong_git" 
 "# practice" 
